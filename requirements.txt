@@ -1,0 +1,14 @@
+langchain
+langchain-core
+langchain-community
+python-dotenv
+ipykernel
+langchain-openai
+langchain-ollama
+langchain-chroma
+faiss-cpu
+# chromadb==0.3.29
+chromadb==0.6.3
+pydantic>=2.0,<=3.0
+uuid
+streamlit
