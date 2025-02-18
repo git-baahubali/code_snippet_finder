@@ -6,6 +6,7 @@ ipykernel
 langchain-openai
 langchain-ollama
 langchain-chroma
+langchain-huggingface
 faiss-cpu
 # chromadb==0.3.29
 chromadb==0.6.3
